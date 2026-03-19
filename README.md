@@ -122,5 +122,5 @@ heart_disease.ipynb
 
 **Aniruddha Singh**
 
-* GitHub: https://github.com/Anirudh071006](https://github.com/Anii1801/Logistic-Regression-from-scratch/
-* LinkedIn: https:[//www.linkedin.com/in/aniruddha-singh-334a8a34b/](https://www.linkedin.com/posts/aniruddha-singh-334a8a34b_machinelearning-logisticregression-linearregression-activity-7439398448602259457-BHpX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFeL9VgBh6FmYDCek34gL8Nb5PhT_NKLDSs)
+* GitHub: https://github.com/Anii1801/Logistic-Regression-from-scratch/
+* LinkedIn: https://www.linkedin.com/posts/aniruddha-singh-334a8a34b_machinelearning-logisticregression-linearregression-activity-7439398448602259457-BHpX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFeL9VgBh6FmYDCek34gL8Nb5PhT_NKLDSs
